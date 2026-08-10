@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-na-realnye-dengi-s-bystrym-d8efd.github.io
+Sitemap: https://kazino-na-realnye-dengi-s-bystrym-d8efd.github.io/sitemap.xml
